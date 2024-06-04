@@ -11,3 +11,9 @@ THEME: https://github.com/rdbende/Forest-ttk-theme
 2. Create `.env` in both `Peer` and `Peer2` folder.
 3. You must put `TRACKER_IP`, `TRACKER_PORT`, `WORKSPACE_PATH` for both folder. `TRACKER_IP` is your tracker IP, `TRACKER_PORT` is your tracker's listening port. `WORKSPACE_PATH="./data".`.
 4. When it's done, you now can run `peer.py` in both folder. If some error occur, please create `data` folder inside both `Peer` and `Peer2`.
+
+## Video demo ##
+
+My role in project: https://youtu.be/y7zKiO3YZgI
+Git and Run: https://youtu.be/KrtRGQtNpJA
+Demo: https://youtu.be/VmeE70ZTSrY
